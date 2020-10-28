@@ -1,5 +1,15 @@
 # Python-API-s-Challenge
 
+# How to Run Code
+
+1. Clone repository to folder on computer
+
+2. Open jupyter lab
+
+3. Navigate to Python API's HW.ipynb and run all cells
+
+
+
 A Python script is created to visualize the weather of 500+ cities across the world of varying distance from the equator. I utilized [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 My first objective was to build a series of scatter plots to showcase the following relationships:
