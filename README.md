@@ -28,3 +28,9 @@ My findings were as follows:
 -A strong relationship was not found between cloudiness and latitude
 -There are not many locations in the world where wind speed reaches over 10 mph
 
+# Screenshots
+
+[ScreenShot](N_Temp_Latitude.png)
+
+The relationship between temperature and latitude in the northern hemisphere was quantified using a scatter plot and an r-squared value.
+
