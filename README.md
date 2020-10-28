@@ -32,5 +32,6 @@ My findings were as follows:
 
 [ScreenShot](N_Temp_Latitude.png)
 
+
 The relationship between temperature and latitude in the northern hemisphere was quantified using a scatter plot and an r-squared value.
 
