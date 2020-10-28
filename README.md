@@ -30,8 +30,15 @@ My findings were as follows:
 
 # Screenshots
 
-[ScreenShot](N_Temp_Latitude.png)
+[Temp_Latitude](N_Temp_Latitude.png)
 
 
 The relationship between temperature and latitude in the northern hemisphere was quantified using a scatter plot and an r-squared value.
+
+
+[Wind_Latitude](S_Wind_Latitude.png)
+
+The relationship between wind speed and latitude in the southern hemisphere was quantified using a scatter plot and an r-squared value.
+
+
 
